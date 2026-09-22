@@ -1,0 +1,10 @@
+{
+  "name": "@superinstance/three-forms-of-evidence",
+  "version": "0.1.0",
+  "description": "Three canonical forms of evidence for the substrate: direct, witness, pattern.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": ["evidence", "substrate", "jev-quilt", "doctrine", "canon"],
+  "author": "SuperInstance",
+  "license": "MIT"
+}
